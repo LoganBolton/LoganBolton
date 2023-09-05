@@ -15,4 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-This is a test to see if it shows up
+
+![GIF](https://github.com/LoganBolton/LoganBolton/blob/main/Media/200w.gif)
