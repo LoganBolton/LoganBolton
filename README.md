@@ -31,4 +31,6 @@ Here are some ideas to get you started:
     <img alt="Visual Studio" src="https://img.shields.io/badge/Visual_Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white"/>
     <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
     <img alt="Jira" src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira"/>
+    <img alt="Jira" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+    	
 </div>
