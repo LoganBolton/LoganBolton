@@ -15,6 +15,15 @@ Here are some ideas to get you started:
 -->
 
 <div style="display: flex; margin: 0; padding: 0;">
+    <a target="_blank" rel="noopener noreferrer" href="https://github.com/LoganBolton/LoganBolton/blob/main/Media/pixel.gif">
+        <img src="https://github.com/LoganBolton/LoganBolton/raw/main/Media/pixel.gif" alt="GIF" style="display: block; margin: 0; padding: 0;">
+    </a>
+    <a target="_blank" rel="noopener noreferrer" href="https://github.com/LoganBolton/LoganBolton/blob/main/Media/flippixel.gif">
+        <img src="https://github.com/LoganBolton/LoganBolton/raw/main/Media/flippixel.gif" alt="GIF" style="display: block; margin: 0; padding: 0;">
+    </a>
+</div>
+
+<div style="display: flex; margin: 0; padding: 0;">
     <img src="https://github.com/LoganBolton/LoganBolton/blob/main/Media/pixel.gif" alt="GIF"/>
     <img src="https://github.com/LoganBolton/LoganBolton/blob/main/Media/flippixel.gif" alt="GIF"/>
 </div>
