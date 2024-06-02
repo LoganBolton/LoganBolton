@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 
 
-![GIF](https://github.com/LoganBolton/LoganBolton/blob/main/Media/200w.gif)
+![GIF](https://github.com/LoganBolton/LoganBolton/blob/main/Media/pixel.gif)
 
 <div>
     <img alt="Python" src="https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white"/>
