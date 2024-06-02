@@ -14,10 +14,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-![GIF](https://github.com/LoganBolton/LoganBolton/blob/main/Media/pixel.gif)
-![GIF](https://github.com/LoganBolton/LoganBolton/blob/main/Media/flippixel.gif)
-
+<div style="display: flex; margin: 0; padding: 0;">
+    ![GIF](https://github.com/LoganBolton/LoganBolton/blob/main/Media/pixel.gif)
+    ![GIF](https://github.com/LoganBolton/LoganBolton/blob/main/Media/flippixel.gif)
+</div>
 <div>
     <img alt="Python" src="https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white"/>
     <img alt=".NET" src="https://img.shields.io/badge/.NET-592C8C?style=for-the-badge&logo=.net&logoColor=white"/>
