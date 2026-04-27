@@ -19,6 +19,6 @@
     <img alt="JavaScript" src="https://img.shields.io/badge/javascript-323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
   <img alt="NumPy" src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
   <img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img alt="Hugging Face" src="https://img.shields.io/badge/Hugging%20Face-white?style=for-the-badge&logo=huggingface&logoColor=black"/>
+<img alt="Hugging Face" src="https://img.shields.io/badge/Hugging%20Face-white?style=for-the-badge&logo=huggingface&logoColor=yellow"/>
     <img alt=".NET" src="https://img.shields.io/badge/.NET-592C8C?style=for-the-badge&logo=.net&logoColor=white"/>
 </div>
